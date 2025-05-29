@@ -1,4 +1,4 @@
-# UNC Charlotte Academic Repository
+# Academic MS CS Repository
 
 Welcome to my repository where I document my academic journey at UNC Charlotte. This space is dedicated to storing all of my code assignments, chapter notes, readings, and various projects that reflect my studies and personal growth.
 
