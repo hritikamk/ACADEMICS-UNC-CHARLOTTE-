@@ -24,3 +24,6 @@ I created this repository to organize my learning process and to share my progre
 - **/chapters**: Folder for notes, summaries, and reading materials.
 - **/projects**: Personal projects and experimental code.
 - **/misc**: Additional materials, resources, and reference documents.
+
+## Usage
+- Use only for educational and leraning purpose intended
