@@ -1,0 +1,12 @@
+---
+:id: 310767843
+:submitters:
+- :name: Hritika Kucheriya
+  :email: hkucheri@charlotte.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2025-02-21 17:25:46.302293000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2025-02-21 09:25:46.302293000 Z
+:status: failed
+:score: 115.0
