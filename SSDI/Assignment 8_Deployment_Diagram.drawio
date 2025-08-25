@@ -1,0 +1,42 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.13">
+  <diagram name="Page-1" id="D-CPPxN_QB-SO-RFBwsP">
+    <mxGraphModel dx="994" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZVS6239xxDuJQH41a6JX-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;endArrow=none;startFill=0;" edge="1" parent="1" source="ZVS6239xxDuJQH41a6JX-1" target="ZVS6239xxDuJQH41a6JX-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZVS6239xxDuJQH41a6JX-1" value="Node" style="swimlane;whiteSpace=wrap;html=1;startSize=23;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="30" y="245" width="300" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="ZVS6239xxDuJQH41a6JX-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;User Database&lt;/font&gt;&lt;/b&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="ZVS6239xxDuJQH41a6JX-1">
+          <mxGeometry x="85" y="220" width="130" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="ZVS6239xxDuJQH41a6JX-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;startFill=0;" edge="1" parent="ZVS6239xxDuJQH41a6JX-1" source="ZVS6239xxDuJQH41a6JX-7" target="ZVS6239xxDuJQH41a6JX-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="205" />
+              <mxPoint x="150" y="205" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZVS6239xxDuJQH41a6JX-7" value="&amp;lt;&amp;lt;artifact &amp;gt;&amp;gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Facebook&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Gift App&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="ZVS6239xxDuJQH41a6JX-1">
+          <mxGeometry x="80" y="45" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ZVS6239xxDuJQH41a6JX-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Vertical Container&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="245" width="290" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="ZVS6239xxDuJQH41a6JX-6" value="&lt;b style=&quot;--un-translate-z: 0; --un-pan-x: ; --un-pan-y: ; --un-pinch-zoom: ; --un-scroll-snap-strictness: proximity; --un-ordinal: ; --un-slashed-zero: ; --un-numeric-figure: ; --un-numeric-spacing: ; --un-numeric-fraction: ; --un-border-spacing-x: 0; --un-border-spacing-y: 0; --un-ring-offset-shadow: 0 0 rgb(0 0 0 / 0); --un-ring-shadow: 0 0 rgb(0 0 0 / 0); --un-shadow-inset: ; --un-shadow: 0 0 rgb(0 0 0 / 0); --un-ring-inset: ; --un-ring-offset-width: 0px; --un-ring-offset-color: #fff; --un-ring-width: 0px; --un-ring-color: rgb(147 197 253 / .5); --un-blur: ; --un-brightness: ; --un-contrast: ; --un-drop-shadow: ; --un-grayscale: ; --un-hue-rotate: ; --un-invert: ; --un-saturate: ; --un-sepia: ; --un-backdrop-blur: ; --un-backdrop-brightness: ; --un-backdrop-contrast: ; --un-backdrop-grayscale: ; --un-backdrop-hue-rotate: ; --un-backdrop-invert: ; --un-backdrop-opacity: ; --un-backdrop-saturate: ; --un-backdrop-sepia: ;&quot;&gt;&lt;font style=&quot;--un-translate-z: 0; --un-pan-x: ; --un-pan-y: ; --un-pinch-zoom: ; --un-scroll-snap-strictness: proximity; --un-ordinal: ; --un-slashed-zero: ; --un-numeric-figure: ; --un-numeric-spacing: ; --un-numeric-fraction: ; --un-border-spacing-x: 0; --un-border-spacing-y: 0; --un-ring-offset-shadow: 0 0 rgb(0 0 0 / 0); --un-ring-shadow: 0 0 rgb(0 0 0 / 0); --un-shadow-inset: ; --un-shadow: 0 0 rgb(0 0 0 / 0); --un-ring-inset: ; --un-ring-offset-width: 0px; --un-ring-offset-color: #fff; --un-ring-width: 0px; --un-ring-color: rgb(147 197 253 / .5); --un-blur: ; --un-brightness: ; --un-contrast: ; --un-drop-shadow: ; --un-grayscale: ; --un-hue-rotate: ; --un-invert: ; --un-saturate: ; --un-sepia: ; --un-backdrop-blur: ; --un-backdrop-brightness: ; --un-backdrop-contrast: ; --un-backdrop-grayscale: ; --un-backdrop-hue-rotate: ; --un-backdrop-invert: ; --un-backdrop-opacity: ; --un-backdrop-saturate: ; --un-backdrop-sepia: ; font-size: 14px;&quot;&gt;Inventory&amp;nbsp; Database&lt;/font&gt;&lt;/b&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="ZVS6239xxDuJQH41a6JX-3">
+          <mxGeometry x="80" y="220" width="130" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="ZVS6239xxDuJQH41a6JX-8" value="&amp;lt;&amp;lt;artifact &amp;gt;&amp;gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Gift/Card&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Storefront API&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="ZVS6239xxDuJQH41a6JX-3">
+          <mxGeometry x="80" y="45" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ZVS6239xxDuJQH41a6JX-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.595;entryY=0.047;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;startFill=0;" edge="1" parent="ZVS6239xxDuJQH41a6JX-3" source="ZVS6239xxDuJQH41a6JX-8" target="ZVS6239xxDuJQH41a6JX-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
